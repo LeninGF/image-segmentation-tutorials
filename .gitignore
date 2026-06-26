@@ -1,2 +1,5 @@
 # Environment variables (user secrets)
 .env
+
+# Old notebook filename (replaced by Fine_Tuning_SemanticSegmentation.ipynb)
+Fine-Tuning-SemanticSegmentation.ipynb
